@@ -2,7 +2,7 @@
 
 ## Javascript Assignment :coffee:
 
-The assignment consisted of a series of exercises. **[texto]()**.
+The assignment consisted of a series of exercises.
 - **[Variables and Operators](https://github.com/ValentinSilvestri/rr-javascript/tree/master/1-variables_operadores)**.
 - **[Strings](https://github.com/ValentinSilvestri/rr-javascript/tree/master/2-strings)**.
 - **[Arrays](https://github.com/ValentinSilvestri/rr-javascript/tree/master/3-arrays)**.
