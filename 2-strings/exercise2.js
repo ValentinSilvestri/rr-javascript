@@ -18,7 +18,7 @@ console.log("Ejercicio a) String en mayúsculas: " + str1.toUpperCase());
 var str2, str3;
 str2 = "Segunda cadena";
 str3 = str2.substring(0,5);
-console.log("Ejercicio d) Substring: " + str3);
+console.log("Ejercicio b) Substring: " + str3);
 
 /*
     c) Crear una variable de tipo string con al menos 10 caracteres y generar un nuevo string con los últimos 3 
