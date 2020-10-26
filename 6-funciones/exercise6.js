@@ -96,9 +96,3 @@ function suma4(num1, num2){
 }
 var resultado = suma4("error",Math.round(Math.random()*10));
 console.log("Ejercicio e) Suma: " + resultado);
-
-
-
-
-
-
